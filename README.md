@@ -36,10 +36,10 @@ The model consists of two main modules:
 
 ---
 
-## 🧰 Technologies
+## 🧰 Used
 - **Python**
 - `pandas`, `numpy`, `requests`, `yfinance`, `json`, `logging`
 
 ---
 
-## 📁 File Structure
+
